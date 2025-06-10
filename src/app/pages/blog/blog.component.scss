@@ -1,0 +1,56 @@
+.page {
+    margin-top: 80px;
+}
+.blog {
+    display: flex;
+    flex-flow: row wrap;
+    column-gap: 1rem;
+    row-gap: 1rem;
+}
+.post {
+    max-width: 100%;
+    width: 100%;
+}
+.mat-mdc-card.mdc-card.outline {
+    border-radius: 0;
+    border: 1px solid #000;
+}
+
+.mat-mdc-card-avatar {
+    border: 1px solid #000;
+}
+
+
+.mat-card-title {
+    margin-bottom: .3rem;
+    word-break: break-word;
+}
+.mat-card-subtitle {
+    margin-bottom: 1rem;
+    display: flex;
+    .level {
+        margin-left: auto;
+        padding: 1px 9px 0;
+        border-radius: 6px;
+        color: white;
+        background: green;
+    }
+}
+
+
+
+@media (min-width: 580px) {
+    .post {
+        width:calc((100% - 1rem) / 2);
+    }
+}
+@media (min-width: 824px) {
+    .post {
+        width:calc((100% - 2rem) / 3);
+    }
+}
+@media (min-width: 1024px) {
+    .post {
+        width:calc((100% - 3rem) / 4);
+    }
+}

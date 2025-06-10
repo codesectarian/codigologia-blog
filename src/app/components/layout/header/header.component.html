@@ -1,0 +1,23 @@
+<header class="header" [class.top-interactive]="!isHomeRoute">
+    <div class="container">
+        <div class="nav-bar">
+            <div class="nav-menu">
+                <app-sandwich (valueChanged)="onValueChanged($event)" [isMenuOpen]="isMenuOpen"></app-sandwich>
+            </div>
+            <div class="logo">
+                <div class="name">
+                    CODIGOLOGIA
+                </div>
+            </div>
+            <div class="user-menu">
+                <a href="#">
+                    {{currentRoute}}
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="interactive" 
+[class.top-interactive]="!isHomeRoute">
+    <app-draw [isHomeRoute]="isHomeRoute"></app-draw>
+</div>
