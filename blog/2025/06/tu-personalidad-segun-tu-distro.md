@@ -15,7 +15,7 @@ Disfrutas de organizar eventos `enter code here`para compartir tus conocimientos
 **Contras**: Eres el Windows de Linux.
 
  
- 
+--- 
 
 ## Fedora
 
@@ -28,7 +28,7 @@ Prefieres Fedora porque te gusta la adrenalina de vivir al filo del desastre tec
 
 **Contras**: Espera inestabilidad y romper tu sistema regularmente.
 
-  
+--- 
 
 ## Linux Mint
 
@@ -43,7 +43,7 @@ Te encanta presumir de cómo tu abuelita podría usar tu computadora sin problem
 
 **Contras**: A veces parece el sistema operativo de tus abuelos.
 
-  
+--- 
 
 ## Debian
 
@@ -56,7 +56,7 @@ Probablemente prefieras Debian porque te encanta la idea de tener un sistema ope
 
 **Contras**: Software tan actualizado como un fósil.
 
-  
+--- 
 
 ## Arch Linux
 
@@ -70,7 +70,7 @@ Prefieres la independencia, el control total sobre tu entorno, y porque claro, n
 
 **Contras**: Pasarás más tiempo configurándolo que usándolo.
 
-  
+--- 
 
 ## Manjaro
 
@@ -84,7 +84,7 @@ Quizás prefieras Manjaro para un uso versátil y accesible, siempre buscando la
 
 **Contras**: Inesperadamente inestable en el peor momento posible.
 
-  
+--- 
 
 ## openSUSE
 
@@ -98,7 +98,7 @@ Probablemente prefieras openSUSE porque te hace sentir como un verdadero adminis
 
 **Contras**: Su sistema de gestión de paquetes hace que quieras tirarte de los pelos (Si aun te quedan).
 
-  
+--- 
 
 ## Kali Linux
 
@@ -111,7 +111,7 @@ Probablemente prefieras Kali Linux porque te gusta impresionar a tus amigos con 
 
 **Contras**: No es para uso diario, a menos que seas un agente secreto.
 
-  
+--- 
 
 ## CentOS
 
@@ -125,7 +125,7 @@ Probablemente prefieras CentOS porque te gusta la idea de un sistema operativo q
 
 **Contras**: Tan emocionante como ver pintura secarse.
 
-  
+--- 
 
 ## Slackware
 
@@ -138,7 +138,7 @@ Tu amor por los dinosaurios no solo se refleja en tus visitas al museo, sino tam
 
 **Contras**: La tortura autoinfligida de la configuración manual y la sensación de estar en una máquina del tiempo tecnológica.
 
-  
+--- 
 
 ## Gentoo
 
@@ -152,7 +152,7 @@ Probablemente prefieras Gentoo porque te gusta el desafío y la satisfacción de
 
 **Contras**: Te convertirás en un ermitaño social antes de terminar de configurarlo.
 
-  
+--- 
 
 ## Red Hat
 
