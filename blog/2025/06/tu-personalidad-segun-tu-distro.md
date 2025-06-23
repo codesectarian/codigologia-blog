@@ -15,6 +15,8 @@ Disfrutas de organizar eventos para compartir tus conocimientos, a veces forzand
 
   
 
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/2.png)
+
 ## Fedora
 
 Si usas Fedora, eres el tipo de persona que siempre quiere lo último, cual roedor fanatico de ruedas eres el beta tester involuntario para las nuevas versiones, y probablemente has roto tu sistema más veces de las que quieres admitir. 
@@ -25,6 +27,8 @@ Prefieres Fedora porque te gusta la adrenalina de vivir al filo del desastre tec
 **Contras**: Espera inestabilidad y romper tu sistema regularmente.
 
   
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/3.png)
 
 ## Linux Mint
 
@@ -38,6 +42,8 @@ Te encanta presumir de cómo tu abuelita podría usar tu computadora sin problem
 
   
 
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/4.png)
+
 ## Debian
 
 Si Debian es tu elección, eres una persona que valora la estabilidad por encima de todo. 
@@ -49,6 +55,8 @@ Probablemente prefieras Debian porque te encanta la idea de tener un sistema ope
 **Contras**: Software tan actualizado como un fósil.
 
   
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/5.png)
 
 ## Arch Linux
 
@@ -62,6 +70,8 @@ Prefieres la independencia, el control total sobre tu entorno, y porque claro, n
 
   
 
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/6.png)
+
 ## Manjaro
 
 Usar Manjaro sugiere que eres curioso y adaptable.
@@ -73,6 +83,8 @@ Quizás prefieras Manjaro para un uso versátil y accesible, siempre buscando la
 **Contras**: Inesperadamente inestable en el peor momento posible.
 
   
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/7.png)
 
 ## openSUSE
 
@@ -86,6 +98,8 @@ Probablemente prefieras openSUSE porque te hace sentir como un verdadero adminis
 
   
 
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/8.png)
+
 ## Kali Linux
 
 Si Kali Linux es de tu agrado, eres el tipo de persona que disfruta jugando a ser hacker en tu tiempo libre. Te encanta la idea de tener todas las herramientas de seguridad a tu disposición, aunque solo uses el 10% de ellas. 
@@ -96,6 +110,8 @@ Probablemente prefieras Kali Linux porque te gusta impresionar a tus amigos con 
 **Contras**: No es para uso diario, a menos que seas un agente secreto.
 
   
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/9.png)
 
 ## CentOS
 
@@ -109,6 +125,8 @@ Probablemente prefieras CentOS porque te gusta la idea de un sistema operativo q
 
   
 
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/10.png)
+
 ## Slackware
 
 Cuando Slackware es tu preferencia, Estamos ante el arqueólogo del mundo Linux. 
@@ -119,6 +137,8 @@ Tu amor por los dinosaurios no solo se refleja en tus visitas al museo, sino tam
 **Contras**: La tortura autoinfligida de la configuración manual y la sensación de estar en una máquina del tiempo tecnológica.
 
   
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/11.png)
 
 ## Gentoo
 
@@ -131,6 +151,8 @@ Probablemente prefieras Gentoo porque te gusta el desafío y la satisfacción de
 **Contras**: Te convertirás en un ermitaño social antes de terminar de configurarlo.
 
   
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/12.png)
 
 ## Red Hat
 
