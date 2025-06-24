@@ -80,9 +80,9 @@ Prefieres la independencia, el control total sobre tu entorno, y porque claro, n
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/6.png)
-
 ## Manjaro
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/6.png)
 
 Usar Manjaro sugiere que eres curioso y adaptable.
 Te gusta tener acceso a las últimas características sin sacrificar la usabilidad. Al no tener que lidiar con problemas ni configuraciones técnicas puedes ocupar tu tiempo en edición de fotos o edición de sonido, porque nada dice "diversión" como ajustar configuraciones de audio durante horas.
@@ -96,9 +96,9 @@ Quizás prefieras Manjaro para un uso versátil y accesible, siempre buscando la
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/7.png)
-
 ## openSUSE
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/7.png)
 
 Si prefieres openSUSE, eres el tipo de persona que disfruta de tener control sobre cada aspecto de su sistema, pero sin complicarse demasiado la vida. 
 
@@ -112,9 +112,9 @@ Probablemente prefieras openSUSE porque te hace sentir como un verdadero adminis
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/8.png)
-
 ## Kali Linux
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/8.png)
 
 Si Kali Linux es de tu agrado, eres el tipo de persona que disfruta jugando a ser hacker en tu tiempo libre. Te encanta la idea de tener todas las herramientas de seguridad a tu disposición, aunque solo uses el 10% de ellas. 
 
@@ -127,9 +127,9 @@ Probablemente prefieras Kali Linux porque te gusta impresionar a tus amigos con 
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/9.png)
-
 ## CentOS
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/9.png)
 
 Si CentOS es tu preferencia, eres la definición de estabilidad y responsabilidad. 
 
@@ -143,9 +143,9 @@ Probablemente prefieras CentOS porque te gusta la idea de un sistema operativo q
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/10.png)
-
 ## Slackware
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/10.png)
 
 Cuando Slackware es tu preferencia, Estamos ante el arqueólogo del mundo Linux. 
 
@@ -158,9 +158,9 @@ Tu amor por los dinosaurios no solo se refleja en tus visitas al museo, sino tam
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/11.png)
-
 ## Gentoo
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/11.png)
 
 Si tu elección es Gentoo, eres el perfeccionista extremo del mundo Linux. 
 Te encanta la idea de optimizar cada pequeño detalle de tu sistema y no te importa pasar días compilando software. 
@@ -174,9 +174,9 @@ Probablemente prefieras Gentoo porque te gusta el desafío y la satisfacción de
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/12.png)
-
 ## Red Hat
+
+![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/12.png)
 
 Si Red Hat es tu elección, eres el profesional serio del mundo Linux. 
 Te encanta la estabilidad y el soporte, porque pagar una fortuna por algo que otras distros ofrecen gratis es el ideal de seguridad. 
