@@ -2,13 +2,13 @@
 # Tu personalidad según tu distro
 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/1.png)
+![Ubuntu](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/1.png)
 
 ## Ubuntu
 
 Si tu distro favorita es Ubuntu, lo más probable es que seas el evangelizador de Linux de tu grupo. Tu genetica cercana a testigo de jehova hace que no puedas evitar predicar a todo el mundo que debería pasarse a Linux porque "es más seguro y estable" aunque tus amigos solo quieran ver Netflix sin problemas.
 
-Disfrutas de organizar eventos `enter code here`para compartir tus conocimientos, a veces forzando a tus amigos a escuchar sobre la última actualización del kernel mientras intentan disfrutar de la barbacoa. Probablemente prefieras Ubuntu porque te gusta la sensación de pertenecer a algo grande y accesible.
+Disfrutas de organizar eventos para compartir tus conocimientos, a veces forzando a tus amigos a escuchar sobre la última actualización del kernel mientras intentan disfrutar de la barbacoa. Probablemente prefieras Ubuntu porque te gusta la sensación de pertenecer a algo grande y accesible.
 
 **Pros**: Fácil de usar.
 
@@ -17,7 +17,7 @@ Disfrutas de organizar eventos `enter code here`para compartir tus conocimientos
  
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/2.png)
+![Fedora](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/2.png)
 
 ## Fedora
 
@@ -32,7 +32,7 @@ Prefieres Fedora porque te gusta la adrenalina de vivir al filo del desastre tec
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/3.png)
+![Linux Mint](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/3.png)
 
 ## Linux Mint
 
@@ -49,7 +49,7 @@ Te encanta presumir de cómo tu abuelita podría usar tu computadora sin problem
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/4.png)
+![Debian](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/4.png)
 
 ## Debian
 
@@ -64,7 +64,7 @@ Probablemente prefieras Debian porque te encanta la idea de tener un sistema ope
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/5.png)
+![Arch Linux](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/5.png)
 
 ## Arch Linux
 
@@ -80,7 +80,7 @@ Prefieres la independencia, el control total sobre tu entorno, y porque claro, n
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/6.png)
+![Manjaro](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/6.png)
 
 ## Manjaro
 
@@ -96,7 +96,7 @@ Quizás prefieras Manjaro para un uso versátil y accesible, siempre buscando la
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/7.png)
+![openSUSE](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/7.png)
 
 ## openSUSE
 
@@ -112,7 +112,7 @@ Probablemente prefieras openSUSE porque te hace sentir como un verdadero adminis
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/8.png)
+![Kali Linux](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/8.png)
 
 ## Kali Linux
 
@@ -127,7 +127,7 @@ Probablemente prefieras Kali Linux porque te gusta impresionar a tus amigos con 
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/9.png)
+![CentOS](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/9.png)
 
 ## CentOS
 
@@ -143,7 +143,7 @@ Probablemente prefieras CentOS porque te gusta la idea de un sistema operativo q
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/10.png)
+![Slackware](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/10.png)
 
 ## Slackware
 
@@ -158,7 +158,7 @@ Tu amor por los dinosaurios no solo se refleja en tus visitas al museo, sino tam
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/11.png)
+![Gentoo](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/11.png)
 
 ## Gentoo
 
@@ -174,7 +174,7 @@ Probablemente prefieras Gentoo porque te gusta el desafío y la satisfacción de
 
 --- 
 
-![enter image description here](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/12.png)
+![Red Hat](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/06/tu-personalidad-segun-tu-distro/12.png)
 
 ## Red Hat
 
