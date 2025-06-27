@@ -1,7 +1,9 @@
 
 # **_El Principito 1_: Analisis de Los 7 Planetas, y las Polaridades de los Chakras**
 
-En cualquier parte de la realidad donde se observe se puden hallar ***patrones***, hace poco empezé a leer e identificar los buenos libros y quise hacer un desvelamiento de algunas de sus partes y sus patrones, para analisar la influencia de la espiritualidad y el esoterismo que tienen dentro, en este post daré una explicación de lo hallado para las personas que sean fans del libro ***el principito***.
+En cualquier parte de la realidad donde se observe se puden hallar ***patrones***, los patrones igual que en la programación nos permiten reconocer problemas pasados y aplicarlos a desafíos que se vuelven repetitivos.
+
+Hace poco empezé a leer e identificar en buenos libros algunos de éstos y quise hacer el desvelamiento para ponerlos en evidencia, además de analisar la influencia de la espiritualidad y el esoterismo que tienen dentro, en este post daré una explicación de lo hallado para las personas que sean fans del libro ***el principito***.
 
 
 ## 7 Chakras
