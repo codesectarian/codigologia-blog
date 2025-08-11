@@ -1,5 +1,5 @@
 
-# Tu personalidad según tu distro
+# La interpretación filosófica de Pitagoras y su visión de la música
 
 ![Pitagorismo](https://raw.githubusercontent.com/codesectarian/codigologia-blog/refs/heads/main/blog/2025/07/musica-pitagorismo/musica-pitagorismo.png)
 
